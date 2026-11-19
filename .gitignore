@@ -1,0 +1,10 @@
+*.p12
+*.p7b
+*.cer
+*.key
+*.jks
+*.keystore
+*.pem
+*.profile
+.DS_Store
+Thumbs.db
